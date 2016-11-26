@@ -1,7 +1,7 @@
 # machine-learning-guide
 This is a list of machine learning resources and a guide to some starter frameworks and libraries.
 
-By Brian Curry, Founder @ Kansas City [Machine Learning Group](http://kansascitymachinelearning.com)
+By Brian Curry, Founder @ [Kansas City Machine Learning Group](http://kansascitymachinelearning.com)
 
 Here are a few of the top libraries, frameworks and tools for Machine Learning, Data Science and Deep Learning. This is just a starting point but should provide an excellent overview of some of the Machine Learning and Deep Learning tools libraries available. A lot of these are focused on Python as it is an excellent and flexible language for Machine Learning and Data Science. However, this list was compiled without a specific language in mind. These resources represent an excellent starting point for anyone wanting to learn more about Machine Learning, Deep Learning and Data Science tools.
 
